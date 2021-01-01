@@ -1,0 +1,10 @@
+{
+  "Id": "ModelChanger",
+  "DisplayName": "Model Changer",
+  "Author": "kirina",
+  "Version": "1.0.0",
+  "AssemblyName": "ModelChanger.dll",
+  "EntryMethod": "ModelChanger.Main.Load",
+  "HomePage": "https://www.nexusmods.com/derailvalley/mods/",
+  "Repository": "https://raw.githubusercontent.com/WallyCZ/DVRouteManager/master/Repository.json"
+}
